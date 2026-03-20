@@ -135,7 +135,7 @@ Recommendation: Add missing skills to resume to improve score
 resume-matcher/
 │
 ├── app.py                              # Streamlit web app
-├── Resume_Matcher_Amit_Kumar.ipynb     # Complete Colab notebook (32 cells)
+├── Resume_Matcher.ipynb     # Complete Colab notebook (32 cells)
 ├── requirements.txt                    # Python dependencies
 └── README.md                           # This file
 ```
@@ -199,7 +199,7 @@ The system covers 133 skills across 8 categories:
 ## Author
 
 **Amit Kumar**
-Data Scientist and NLP Engineer | Bangalore, India
+Data Scientist | Bangalore, India
 
 - GitHub: [github.com/amit0098](https://github.com/amit0098)
 - Live App: [huggingface.co/spaces/amit0098/resume-matcher](https://huggingface.co/spaces/amit0098/resume-matcher)
