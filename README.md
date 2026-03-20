@@ -212,4 +212,4 @@ This project is licensed under the MIT License.
 
 ---
 
-*Capstone Project 2 — PGA 3.0 | NLP Track*
+*Capstone Project 2 — PGA 45 | NLP Track*
